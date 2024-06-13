@@ -32,7 +32,7 @@ if (empty($_POST["number"])) {
 }
 
 
-$EmailTo = "formar.ortodoncia@gmail.com, cecilnez@hotmail.com, diegodelp22@gmail.com";
+$EmailTo = "diegodelp22@gmail.com";
 $Subject = "Mensaje Recibido de Consulta";
 
 // prepare email body text
